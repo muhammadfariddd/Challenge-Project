@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #c63d2f;
+}
+
+.pricing-heading {
+  text-align: center;
+  font-size: 3rem;
+  margin: 1rem 0;
+  color: #fff;
+}
+
+.pricing-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.pricing-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5rem 2rem 5rem;
+  background-color: white;
+  margin: 0 1rem;
+  overflow: hidden;
+  cursor: pointer;
+  transition: 0.2s all linear;
+  margin-bottom: 2rem;
+  border-radius: 0.5rem;
+}
+
+.pricing-item:hover {
+  transform: scale(1.01);
+  box-shadow: 0 1rem 1rem 0 #ff9b50;
+}
+
+.pricing-item li {
+  list-style: none;
+}
+
+.pricing {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  color: #ffbb5c;
+  font-weight: bold;
+}
+
+.pricing-kit {
+  font-size: 1.3rem;
+  background-color: #ffbb5c;
+  padding: 0.7rem 1.5rem;
+  border-radius: 0 0 2rem 2rem;
+}
+
+.pricing-item:hover .pricing-kit {
+  box-shadow: 0 0 0 50rem #ffbb5c;
+}
+
+.pricing-item:hover .order-btn {
+  background-color: #ffbb5c;
+  color: white;
+  font-weight: bold;
+  border-color: white;
+}
+
+.pricing-item:hover .pricing {
+  color: black;
+  transition: 0.4s linear;
+}
+
+.offers li {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.order-btn {
+  border: none;
+  border: 2px solid #ffbb5c;
+  background-color: transparent;
+  color: #ffbb5c;
+  cursor: pointer;
+  margin-top: 2rem;
+  padding: 0.7rem 1rem;
+  border-radius: 2rem;
+  font-weight: bold;
+}
+
+.order-btn:hover {
+  background-color: #ffbb5c;
+  color: white;
+  font-weight: bold;
+  border-color: white;
+}
