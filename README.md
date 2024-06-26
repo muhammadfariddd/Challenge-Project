@@ -1,4 +1,4 @@
-# Proyek Tantangan - Kumpulan Proyek Pengembangan Web
+# Challenge Projects - Collection of Web Development Projects 👨🏻‍💻
 
 Ini adalah kumpulan proyek kecil yang saya buat untuk tantangan dan latihan dalam pengembangan web. Setiap proyek memiliki link ke repositori GitHub dan tautan demo langsung.
 
