@@ -4,11 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Login Form</title>
-
-    <!-- Link CSS  -->
     <link rel="stylesheet" href="style.css" />
-
-    <!-- Font Awesome  -->
     <script
       src="https://kit.fontawesome.com/fb46cf958f.js"
       crossorigin="anonymous"
@@ -19,36 +15,38 @@
       <h2 class="t-center">Login</h2>
       <form action="">
         <div class="inputDiv">
-          <label for="name" class="username">Username</label>
+          <label for="" class="username">Username</label>
           <div class="userArea">
-            <i class="fa-solid fa-user"></i
-            ><input
+            <i class="fa-solid fa-user"></i>
+            <input
               type="text"
-              id="name"
               name="name"
+              id="name"
               placeholder="Type your username"
             />
           </div>
+          <hr />
         </div>
         <div class="inputDiv">
-          <label for="password" class="username">Password</label>
+          <label for="password" class="username">Username</label>
           <div class="userArea">
-            <i class="fa-solid fa-key"></i
-            ><input
+            <i class="fa-solid fa-key"></i>
+            <input
               type="password"
-              id="password"
               name="password"
+              id="password"
               placeholder="Type your password"
             />
           </div>
+          <hr />
         </div>
 
-        <span class="forgotPassword"> Forgot Password </span>
+        <span class="forgotPassword">Forgot Password ?</span>
         <button class="btn">Login</button>
         <div class="formButton">
-          <p>Or Sign Up using</p>
+          <p>Or Sign Up Using</p>
           <ul class="flexUI">
-            <a href="https://www.faceboook.com" target="_blank">
+            <a href="https://www.facebook.com" target="_blank">
               <li><i class="fa-brands fa-facebook-f"></i></li>
             </a>
             <a href="https://www.twitter.com" target="_blank">
@@ -58,8 +56,8 @@
               <li><i class="fa-brands fa-google"></i></li>
             </a>
           </ul>
-          <p class="signUp">Or Sign Up using</p>
-          <p class="signUp">SIGN UP</p>
+          <p class="signUp">Or Sign Up Using</p>
+          <p id="signUp">SIGN UP</p>
         </div>
       </form>
     </div>
