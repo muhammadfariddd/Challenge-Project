@@ -13,6 +13,7 @@ Ini adalah kumpulan proyek kecil yang saya buat untuk tantangan dan latihan dala
 | 5  | Pricing Card | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Pricing%20Card) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Pricing%20Card/) |
 | 6  | 3D Button Effects | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/3D%20Buttons) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/3D%20Buttons/) |
 | 7  | Login Form | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Login%20Form) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Login%20Form/) |
+| 8  | Item Card | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Item%20Card) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Item%20Card/) |
 
 Setiap proyek dilengkapi dengan tautan langsung ke repositori GitHub tempat Anda bisa melihat kode dan detail implementasi, serta tautan demo untuk melihat proyek secara langsung di browser.
 
