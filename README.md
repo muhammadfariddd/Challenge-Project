@@ -17,6 +17,7 @@ Ini adalah kumpulan proyek kecil yang saya buat untuk tantangan dan latihan dala
 | 9  | Team Section | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Team%20Section) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Team%20Section/) |
 | 10  | Navbar Hover Effect | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Navbar%20Hover%20Effect) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Navbar%20Hover%20Effect/) |
 | 11  | Popup Menu | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Popup%20Menu) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Popup%20Menu/) |
+| 12  | Sidebar Menu | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Sidebar%20Menu) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Sidebar%20Menu/) |
 
 Setiap proyek dilengkapi dengan tautan langsung ke repositori GitHub tempat Anda bisa melihat kode dan detail implementasi, serta tautan demo untuk melihat proyek secara langsung di browser.
 
