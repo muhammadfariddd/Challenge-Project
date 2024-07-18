@@ -19,6 +19,8 @@ Ini adalah kumpulan proyek kecil yang saya buat untuk tantangan dan latihan dala
 | 11  | Popup Menu | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Popup%20Menu) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Popup%20Menu/) |
 | 12  | Sidebar Menu | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Sidebar%20Menu) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Sidebar%20Menu/) |
 | 13  | Responsive Footer | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Responsive%20Footer) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Responsive%20Footer/) |
+| 14  | Flipping Card | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Flipping%20Card) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Flipping%20Card/) |
+| 15  | Student Registration | [Repository](https://github.com/muhammadfariddd/Challenge-Project/tree/master/Student%20Registration) | [View Demo](https://muhammadfariddd.github.io/Challenge-Project/Student%20Registration/) |
 
 Setiap proyek dilengkapi dengan tautan langsung ke repositori GitHub tempat Anda bisa melihat kode dan detail implementasi, serta tautan demo untuk melihat proyek secara langsung di browser.
 
