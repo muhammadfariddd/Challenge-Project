@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width: 100%;
+  background-color: rgb(34, 232, 254);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.registration-container {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  margin: 3rem;
+  width: 100%;
+  max-width: 600px;
+}
+
+.registration-container h2 {
+  font-weight: bold;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.registration-container h2::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  height: 3px;
+  width: 20%;
+  border-radius: 2px;
+  background-color: #e65b00;
+}
+
+.three-details-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  background-color: #d2d2d2;
+  margin: 2rem 0;
+  border: none;
+}
+
+.personal-details,
+.identity-details {
+  margin: 1rem 0;
+}
+
+.personal-details label,
+.identity-details label {
+  margin: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  flex: 1;
+  min-width: 150px;
+}
+
+.three-details-item input {
+  outline: none;
+  font-size: 0.9rem;
+  border-radius: 0.2rem;
+  border: 1px solid rgb(113, 101, 101);
+  padding: 0.5rem;
+  background-color: transparent;
+  width: 100%;
+}
+
+.three-details-item input::placeholder {
+  color: rgb(150, 150, 150);
+}
+
+.submit-btn {
+  border: none;
+  background-color: #e65b00;
+  color: white;
+  padding: 0.6rem 2rem;
+  display: block;
+  width: 50%;
+  margin: 1rem auto;
+  border-radius: 2rem;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.submit-btn:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
